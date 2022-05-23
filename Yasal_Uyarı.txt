@@ -1,0 +1,34 @@
+	      --- YASAL UYARI ---
+
+1) Yazılımı indirmek ve kullanmak isteyenler lisans anlaşmasını kabul etmiş sayılır.
+
+2) Yazılım ile ilgili yaşanabilecek tüm olumsuz durumlar, zararlar ve yasal olaylar yazılımı kullanan ve çalıştıranlara aittir.
+Program konusunda hiçbir garanti verilmemektedir.
+
+3) Eğitim amacıyla program hazırlanmıştır. Amacı dışı kullanımlardan kullanıcı sorumludur. Amacı dışı kullanımlar,
+hem anayasa hem de 5237 sayılı TCK'ununa göre birçok suça sebep olabilir. Aşağıda amacı dışı kullanımların neden
+olabileceği bazı suçlar sıralanmıştır. Programı lütfen eğitim amacıyla kullanınız. Bu konudaki tüm sorumluluk kullanıcıya aittir.
+
+
+##################################################
+Anayasanın 20. Maddesi "Özel Hayatın Gizliliği"
+
+5237 SAYILI TCK’unun
+>> Madde 243 - Bilişim Sistemine Girme Suçu
+>> Madde 244 - Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Suçu
+>> Madde 245 - Banka veya Kredi Kartlarının Kötüye Kullanılması
+>> Madde 245/A - Yasak Cihaz veya Programlar
+>> Madde 246 - Tuzel Kişiler Hakkında Güvenlik Tedbiri Uygulaması
+>> Madde 124 - Haberleşmenin Engellenmesi Suçu
+>> Madde 132 - Haberleşmenin Gizliliğini İhlal Suçu
+>> Madde 133 - Kişiler Arasındaki Konuşmaların Dinlenmesi ve Kayda Alınması Suçu
+>> Madde 134 - Özel Hayatın Gizliliğini İhlal Suçu
+>> Madde 135 - Kişisel verilerin kaydedilmesi
+>> Madde 136 - Verileri Hukuka Aykırı Olarak Verme veya Ele Geçirme
+>> Madde 137 - Nitelikli Haller
+>> Madde 138 - Verileri Yok Etmeme
+>> Madde 139 - Şikayet
+>> Madde 140 - Tüzel Kişiler Hakkında Güvenlik Tedbiri Uygulanması
+>> Madde 142 - Nitelikli Hırsızlık Suçu
+>> Madde 158 - Nitelikli Dolandırıcılık Suçu
+########################################################
